@@ -14,17 +14,28 @@ I'm an Electronics and Communication Engineering graduate passionate about Embed
 
 ## 🛠️ Technical Skills
 
-**Programming:** C, Embedded C, Python, C++
+### Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Embedded Systems:** STM32, ESP32, Arduino, Microcontrollers
+### Embedded Systems
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**Communication Protocols:** UART, SPI, I2C, CAN
+### Semiconductor & Digital Design
+![Verilog](https://img.shields.io/badge/Verilog-555555?style=for-the-badge)
+![Sky130](https://img.shields.io/badge/Sky130-00599C?style=for-the-badge)
+![OpenLANE](https://img.shields.io/badge/OpenLANE-444444?style=for-the-badge)
 
-**Semiconductor & Digital Design:** Verilog, OpenLANE, Sky130
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Testing & Validation:** Solar PV Module Testing, IEC/UL Standards, Quality Assurance
+### Testing & Validation
+`Solar PV Testing` `IEC/UL Standards` `Quality Assurance`
 
-**Tools:** Git, GitHub, Linux, STM32CubeIDE, MATLAB, Proteus, Vivado
 
 ---
 
